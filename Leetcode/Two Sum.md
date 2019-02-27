@@ -1,6 +1,6 @@
 #### Two Sum
 
-#####暴力破解
+##### 暴力破解
 
 ```java
 class Solution {
