@@ -63,7 +63,7 @@ sh zkServer.sh start
 
 
 
-#####4、启动Druid程序 
+##### 4、启动Druid程序 
 
 进入DRUID_HOME目录下，按顺序执行下面命令启动相应程序 
 
